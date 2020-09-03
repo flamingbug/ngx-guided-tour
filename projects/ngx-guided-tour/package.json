@@ -1,7 +1,7 @@
 {
-    "name": "ngx-guided-tour",
-    "version": "1.1.10",
-    "description": "Guided tour for your Angular6+ applications.",
+    "name": "ngx-guided-tour-es",
+    "version": "1.0.0",
+    "description": "Guided tour for your Angular6+ applications. using lodash-es instead of lodash",
     "peerDependencies": {
         "@angular/common": ">=6.0.0",
         "@angular/core": ">=6.0.0",
